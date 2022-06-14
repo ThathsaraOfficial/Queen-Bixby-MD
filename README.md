@@ -61,7 +61,7 @@ Add FFmpeg to PATH environment variable
 > pkg install ffmpeg -y 
 > pkg install wget
 > pkg install imagemagick -y
-> git clone https://github.com/darkalphaxteam/Queen-Bixby-MD
+> giT clone https://github.com/darkalphaxteam/Queen-Bixby-MD
 > cd Gojo-Satoru
 > npm install
 ```
