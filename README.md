@@ -40,7 +40,7 @@ Add FFmpeg to PATH environment variable
 
 * Scan QR In Your Whatsapp From [Here](https://replit.com/@nexusNw/Md-Scanner?outputonly=1&lite=1)
 * Fork This Repo By Clicking [Here](https://github.com/darkalphaxteam/Queen-Bixby-MD/fork)
-* then Deploy The Bot From [Here](https://heroku.com/deploy)
+* then Deploy The Bot From [Here](https://heroku.com/deployhttps:/github.com/ThathsaraOfficial/Queen-Bixby-MD)
 * Wait 5-10 Min To Deploy 
 * After Deploying On The Worker And Check The Logs
 
@@ -74,8 +74,8 @@ global.APIKeys = {
 	'https://zenzapis.xyz': 'YOURAPIKEY',
 }
   
-global.owner = ["9471XXXXXX"]
-global.ownername = ["YourName"]
+global.owner = ["94764247716"]
+global.ownername = ["Induwara😘 Official😘"]
 ```
 </details>
 
@@ -123,7 +123,7 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 
 ## ```Connect With Me```
 <p align="center">
-<a href="https://wa.me/94711421243"><img src="https://img.shields.io/badge/Contact Thinura-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://wa.me/94764247716"><img src="https://img.shields.io/badge/Contact Thinura-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ"><img src="https://img.shields.io/badge/Subscribe Nexus-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
 </p>
 
